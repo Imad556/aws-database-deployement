@@ -47,7 +47,7 @@ It was completed as part of the **Internee.pk Virtual Cloud Computing Internship
 
 - Amazon Web Services
 - Amazon RDS for PostgreSQL
-- PostgreSQL 17
+- PostgreSQL 18
 - `pg_dump`
 - `psql`
 - AWS RDS Security Groups
